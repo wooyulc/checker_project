@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="carmenc4@circinus-47.ics.uci.edu:22" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof">
+    <serverData>
+      <paths name="carmenc4@circinus-47.ics.uci.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/carmenc4/check-proj" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="carmenc4@openlab.ics.uci.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_585" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
